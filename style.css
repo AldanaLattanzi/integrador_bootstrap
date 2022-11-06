@@ -9,3 +9,11 @@ footer{
 #conf{
     color:aliceblue;
 }
+
+#final {
+    padding-top: 15px;
+    padding-bottom: 13px;
+    background-color: rgb(193, 218, 255);
+    color: rgb(54, 99, 221);
+    border-radius: 5px;
+  }
